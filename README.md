@@ -1,11 +1,8 @@
 Immune/immoonlion318/snufflion/Odysseus
 
+Discord selfbot and Vencord plugin that makes you type like Immune
 
-
-Discord selfbot that makes you type like Immune
-
-Vencord userplugin that makes you type like Immune
-
+---------------------------------------------------------------------
 
 Selfbot:
 
@@ -16,6 +13,7 @@ REQUIREMENTS: Python (https://www.python.org/downloads/)
 2. Run requirements.bat and wait for it to complete
 3. Run
 
+---------------------------------------------------------------------
 
 Vencord Plugin (RECOMMENDED):
 
