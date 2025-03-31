@@ -11,7 +11,7 @@ REQUIREMENTS: Python (https://www.python.org/downloads/)
 
 1. Install the 7z file in releases and unpack it
 2. Run requirements.bat and wait for it to complete
-3. Run
+3. Run main.py with python
 
 ---------------------------------------------------------------------
 
