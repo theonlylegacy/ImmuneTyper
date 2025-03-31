@@ -17,7 +17,7 @@ REQUIREMENTS: Python (https://www.python.org/downloads/)
 
 Vencord Plugin (RECOMMENDED):
 
-REQUIREMENTS: Vencord custom build (https://docs.vencord.dev/installing/)
+REQUIREMENTS: Vencord manual build (https://docs.vencord.dev/installing/)
 
 
 1. Install the 7z file in releases and unpack it
