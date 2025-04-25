@@ -19,7 +19,7 @@ Vencord Plugin (RECOMMENDED):
 
 REQUIREMENTS: Vencord manual build (https://docs.vencord.dev/installing/)
 
-EXTRA REQUIREMENTS: MessageEventsAPI enabled (navigate to "Open Settings Folder" within Vencord and set "enabled" to true)
+EXTRA REQUIREMENTS: MessageEventsAPI enabled (navigate to "Open Settings Folder" within Vencord and set "enabled" to true in settings.json)
 
 1. Install the 7z file in releases and unpack it
 2. Follow these instructions to properly integrate the immuneTyper folder into Vencord/src/userplugins (https://docs.vencord.dev/installing/custom-plugins/)
