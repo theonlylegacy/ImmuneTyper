@@ -18,6 +18,7 @@ REQUIREMENTS: Python (https://www.python.org/downloads/)
 Vencord Plugin (RECOMMENDED):
 
 REQUIREMENTS: Vencord manual build (https://docs.vencord.dev/installing/)
+
 EXTRA REQUIREMENTS: MessageEventsAPI enabled (navigate to "Open Settings Folder" within Vencord and set "enabled" to true)
 
 1. Install the 7z file in releases and unpack it
